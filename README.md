@@ -46,29 +46,8 @@ console.log(isWorks("not works")); // false
 
 ---
 
-## 🧑‍💻 Author
-
-**dev Rohit**  
-[GitHub Profile](https://github.com/DevRohitSaini)
-
----
-
-## 🐞 Issues
-
-If you find a bug or have a feature request, please open an issue:  
-👉 [Report here](https://github.com/DevRohitSaini/test-npm-packege/issues)
-
----
-
-## 📄 License
-
-This project is licensed under the **ISC License**.
-
----
-
 ## 🌐 Links
 
-- **Homepage:** [@devrohitsaini/is-works on GitHub](https://github.com/DevRohitSaini/test-npm-packege#readme)
-- **Repository:** [GitHub Repo](https://github.com/DevRohitSaini/test-npm-packege)
 - **NPM:** [npmjs.com/package/@devrohitsaini/is-works](https://www.npmjs.com/package/is-works)
+
 
