@@ -48,6 +48,7 @@ console.log(isWorks("not works")); // false
 
 ## 🌐 Links
 
-- **NPM:** [npmjs.com/package/@devrohitsaini/is-works](https://www.npmjs.com/package/is-works)
+- **NPM:** [npmjs.com/package/is-works](https://www.npmjs.com/package/is-works)
+
 
 
