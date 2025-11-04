@@ -1,3 +1,4 @@
+//module function
 function isWorks(string){
     return string === "works";
 }
